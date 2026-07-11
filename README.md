@@ -1,33 +1,33 @@
 # user-login
 Simple User Login.
 
-Requirements
+**Requirements**
 
 This project requires the Colorama module and pip preinstalled.
 
-Windows:
+*Windows*:
 
-py -m pip install colorama
+`py -m pip install colorama`
 
-Linux:
+*Linux*:
 
-python3 -m pip install colorama
+`python3 -m pip install colorama`
 
 or
 
-pip install colorama
+`pip install colorama`
 
-How to install pip
-Linux (Debian/Ubuntu)
+**How to install pip**
+*Linux (Debian/Ubuntu)*
 
-sudo apt update
+`sudo apt update`
 
-sudo apt install python3-pip
+`sudo apt install python3-pip`
 
-Linux (Arch)
+*Linux (Arch)*
 
-sudo pacman -S python-pip
+`sudo pacman -S python-pip`
 
-Linux (Fedora)
+*Linux (Fedora)*
 
-sudo dnf install python3-pip
+`sudo dnf install python3-pip`
