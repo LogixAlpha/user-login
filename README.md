@@ -17,7 +17,8 @@ or
 
 `pip install colorama`
 
-**How to install pip**
+**How to install pip**:
+
 *Linux (Debian/Ubuntu)*
 
 `sudo apt update`
