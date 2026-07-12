@@ -3,6 +3,7 @@ import time
 init(autoreset=True)
 
 print(f"{Back.LIGHTCYAN_EX} Welcome to Simple Login User! ".center(10))
+time.sleep(1)
 print(f"{Fore.LIGHTBLACK_EX} This project is Uncompleted! ".center(10))
 
 print(
