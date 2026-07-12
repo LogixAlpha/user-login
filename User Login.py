@@ -6,7 +6,7 @@ print(f"{Fore.LIGHTBLACK_EX} This project is Uncompleted! ".center(10))
 
 print(
     f"1- {Fore.GREEN+Style.BRIGHT}Sign in {Style.RESET_ALL}\n"
-    f"2- {Fore.BLUE+Style.BRIGHT}Login in [soon] {Style.RESET_ALL}\n"
+    f"2- {Fore.BLUE+Style.BRIGHT}Login in (soon) {Style.RESET_ALL}\n"
 )
 choice = input(f"{Back.LIGHTMAGENTA_EX+Style.DIM}Your Choice :{Style.RESET_ALL}")
 choice = int(choice)
