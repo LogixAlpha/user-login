@@ -1,4 +1,5 @@
 from colorama import Back , Fore , Style , init
+import time
 init(autoreset=True)
 
 print(f"{Back.LIGHTCYAN_EX} Welcome to Simple Login User! ".center(10))
