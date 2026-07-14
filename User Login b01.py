@@ -33,5 +33,18 @@ def script():
             else :
                 time.sleep(.7)
                 print(f"{Style.RESET_ALL+Style.DIM}Welcome{Style.RESET_ALL} {Fore.LIGHTYELLOW_EX+Style.BRIGHT}{username}{Style.RESET_ALL}! \n"
-                      f"{Style.RESET_ALL+Style.DIM}Your password is:{Style.RESET_ALL} {Fore.LIGHTYELLOW_EX+Style.BRIGHT}{password}{Style.RESET_ALL} \n")         
+                      f"{Style.RESET_ALL+Style.DIM}Your password is:{Style.RESET_ALL} {Fore.LIGHTYELLOW_EX+Style.BRIGHT}{password}{Style.RESET_ALL} \n")    
+
+    elif choice == 2 :
+    else:
+        time.sleep()
+        
+
+
+
+
+
+
+
+
 script()               
