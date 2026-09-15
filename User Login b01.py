@@ -36,8 +36,10 @@ def script():
                       f"{Style.RESET_ALL+Style.DIM}Your password is:{Style.RESET_ALL} {Fore.LIGHTYELLOW_EX+Style.BRIGHT}{password}{Style.RESET_ALL} \n")    
 
     elif choice == 2 :
+        print("not yet")
     else:
-        time.sleep()
+        print("unknown!")
+        break
         
 
 
