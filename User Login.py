@@ -38,7 +38,7 @@ def script():
     elif choice == 2 :
         print("Someday I will be here!")
     else:
-        print("unknown!")
+        print("Invalid Choice!")
         break
         
 
